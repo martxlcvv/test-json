@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Raymart Alejado",
+    "course": "BSIT",
+    "year": "3rd year"
+  },
+  {
+    "id": 2,
+    "name": "Willie Revilliame",
+    "course": "BSIT",
+    "year": "3rd year"
+  },
+  {
+  "id": 3,
+    "name": "Wally Bayola",
+    "course": "BSIT",
+    "year": "4th year"
+    },
+  {
+  "id": 4,
+    "name": "Tito Joe",
+    "course": "BSIT",
+    "year": "1st Year"
+    },
+  {
+  "id": 5,
+    "name": "Tito Sotto",
+    "course": "BSIT",
+    "year": "4th year"
+    },
+  {
+  "id": 6,
+    "name": "Maine Mendoza",
+    "course": "BSIT",
+    "year": "3rd year"
+    },
+  {
+  "id": 7,
+    "name": "Joe Deleon",
+    "course": "BSIT",
+    "year": "3rd year"
+    },
+  {
+  "id": 8,
+    "name": "Ryza Mae",
+    "course": "BSIT",
+    "year": "4th year"
+    },
+  {
+  "id": 9,
+    "name": "Tekla",
+    "course": "BSIT",
+    "year": "2nd year"
+    },
+  {
+  "id": 10,
+    "name": "Mang Kepweng",
+    "course": "BSIT",
+    "year": "4th year"
+    }
+
+]

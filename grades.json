@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "Grades": {
+      "hci2": "B",
+      "sia1": "A"
+    }
+  },
+  {
+    "id": 2,
+    "Grades": {
+      "Mobile Tech": "B",
+      "Programming": "A+"
+    }
+  },
+  {
+    "id": 3,
+    "Grades": {
+      "Integ Prog": "C",
+      "Data Comm": "A"
+    }
+  },
+  {
+    "id": 4,
+    "Grades": {
+      "Soft Eng": "B",
+      "Programming": "A+"
+    }
+  },
+  {
+    "id": 5,
+    "Grades": {
+      "Math": "Failed",
+      "Programming": "B"
+    }
+  },
+  {
+    "id": 6,
+    "Grades": {
+      "Filipino": "A",
+      "Soft Eng": "A+"
+    }
+  },
+  {
+    "id": 7,
+    "Grades": {
+      "Science": "B",
+      "Programming": "A+"
+    }
+  },
+  {
+    "id": 8,
+    "Grades": {
+      "Programming": "B",
+      "English": "A+"
+    }
+  },
+  {
+    "id": 9,
+    "Grades": {
+      "Mobile Tech": "C",
+      "Programming": "B"
+    }
+  }
+  ,
+  {
+    "id": 10,
+    "Grades": {
+      "Math": "B",
+      "Programming": "A+"
+    }
+  }
+]

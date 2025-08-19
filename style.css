@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #857f7f;
+}
+
+.container {
+  width: 500px;
+  margin: 50px auto;
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px gray;
+}
+
+h2 {
+  text-align: center;
+}
+
+#result {
+  margin-top: 20px;
+}
